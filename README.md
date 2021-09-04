@@ -1,2 +1,2 @@
-#  estion de planning
+#  gestion de planning
 ## projet de stage
